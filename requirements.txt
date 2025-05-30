@@ -1,0 +1,15 @@
+langchain
+langchain-community
+chromadb
+PyPDF2
+pdfplumber
+openai
+anthropic
+streamlit
+pandas
+numpy
+python-dotenv
+ebooklib
+epub2txt
+beautifulsoup4
+chardet
